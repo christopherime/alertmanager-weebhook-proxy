@@ -1,0 +1,7 @@
+server:
+  port: "9095"
+  endpoint: "/proxy-webhook"
+
+targets:
+  - url: "http://localhost:9090"
+    token: "1234567890"
