@@ -1,0 +1,1 @@
+# alertmanager-weebhook-proxy
